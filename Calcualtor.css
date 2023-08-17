@@ -1,0 +1,43 @@
+.text-center {
+    text-align: center;
+    color: brown;
+    background-color: beige;
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+body {
+
+    background-image: url(https://wallpapercave.com/wp/wp2497498.jpg);
+    background-size: contain;
+
+}
+
+.container {
+    text-align: center;
+
+}
+
+.box .button {
+    margin: 10px;
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.result-box {
+    height: 50px;
+    width: 270px;
+    padding: 0;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: aqua;
+    color: brown;
+}
